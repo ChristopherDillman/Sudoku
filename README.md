@@ -1,3 +1,3 @@
 # Sudoku
-Sudoku by Christopher Dillman.
+Sudoku by Christopher Dillman. 
 Made with Java in Eclipse.
